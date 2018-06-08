@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Procurement Task" max_length="40" name="x_snc_procure_v3_procurement_task" sizeclass="2" type="collection"/>
+</database>
